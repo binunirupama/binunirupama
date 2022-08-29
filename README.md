@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binunirupama
+- 👋 Hi, I’m BINU K
 - 👀 I’m interested in Python Learning and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and AI 
